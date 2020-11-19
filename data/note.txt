@@ -1,0 +1,1 @@
+This is an empty folder where database file will be written out from our code.
